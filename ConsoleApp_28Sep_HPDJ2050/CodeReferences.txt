@@ -1,0 +1,3 @@
+﻿Coding references for Windows Image Acquistion (WIA):
+1-https://ourcodeworld.com/articles/read/382/creating-a-scanning-application-in-winforms-with-csharp
+2-https://github.com/geersch/WIA

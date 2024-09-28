@@ -1,0 +1,10 @@
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\bin\Debug\ConsoleApp_28Sep_HPDJ2050.exe.config
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\bin\Debug\ConsoleApp_28Sep_HPDJ2050.exe
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\bin\Debug\ConsoleApp_28Sep_HPDJ2050.pdb
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\ConsoleApp_28Sep_HPDJ2050.csproj.AssemblyReference.cache
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\ConsoleApp_28Sep_HPDJ2050.csproj.CoreCompileInputs.cache
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\ConsoleApp_28Sep_HPDJ2050.exe
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\ConsoleApp_28Sep_HPDJ2050.pdb
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\bin\Debug\Interop.WIA.dll
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\Interop.WIA.dll
+E:\source\repos\ConsoleApp_28Sep_HPDJ2050\obj\Debug\ConsoleApp_28Sep_HPDJ2050.csproj.ResolveComReference.cache
